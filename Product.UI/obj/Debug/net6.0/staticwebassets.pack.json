@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.netProject\\WebApp\\Product.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Product.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Product.UI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.netProject\\WebApp\\Product.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Product.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Product.UI.props",
+      "PackagePath": "build\\Product.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Product.UI.props",
+      "PackagePath": "buildMultiTargeting\\Product.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Product.UI.props",
+      "PackagePath": "buildTransitive\\Product.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

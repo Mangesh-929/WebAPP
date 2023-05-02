@@ -1,0 +1,39 @@
+﻿@model ProductM
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h3>Add Product</h3>
+<a href="/Product/displayAll" class=" btn btn-info">Display All</a>
+
+<form asp-action="Add">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" type="text" class="form-control" />
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Price" class="form-label">Price</label>
+        <input asp-for="Price" type="text" class="form-control" />
+        <span class="text-danger" asp-validation-for="Price"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label">Description</label>
+        <textarea class=" form-control" asp-for="Description" rows="3"></textarea>
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+    
+        @if(TempData["msg"]!= null)
+        {
+            <div class="mb-3">
+                @TempData["msg"]
+            </div>
+        }
+  
+    <div class="mb-3">
+        <button type="submit" class="btn-primary btn-primary">Save</button>
+    </div>
+    
+    
+</form>
+

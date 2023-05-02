@@ -1,0 +1,12 @@
+D:\.netProject\WebApp\Product.Data\bin\Debug\net6.0\Product.Data.deps.json
+D:\.netProject\WebApp\Product.Data\bin\Debug\net6.0\Product.Data.dll
+D:\.netProject\WebApp\Product.Data\bin\Debug\net6.0\Product.Data.pdb
+D:\.netProject\WebApp\Product.Data\obj\Debug\net6.0\Product.Data.csproj.AssemblyReference.cache
+D:\.netProject\WebApp\Product.Data\obj\Debug\net6.0\Product.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\.netProject\WebApp\Product.Data\obj\Debug\net6.0\Product.Data.AssemblyInfoInputs.cache
+D:\.netProject\WebApp\Product.Data\obj\Debug\net6.0\Product.Data.AssemblyInfo.cs
+D:\.netProject\WebApp\Product.Data\obj\Debug\net6.0\Product.Data.csproj.CoreCompileInputs.cache
+D:\.netProject\WebApp\Product.Data\obj\Debug\net6.0\Product.Data.dll
+D:\.netProject\WebApp\Product.Data\obj\Debug\net6.0\refint\Product.Data.dll
+D:\.netProject\WebApp\Product.Data\obj\Debug\net6.0\Product.Data.pdb
+D:\.netProject\WebApp\Product.Data\obj\Debug\net6.0\ref\Product.Data.dll

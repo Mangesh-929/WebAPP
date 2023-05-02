@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "2vsKu1071qrkLTIfzYcvfqTW89bTMPcBWDrqpasMwJw=",
+  "Source": "Product.UI",
+  "BasePath": "_content/Product.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Product.UI\\wwwroot",
+      "Source": "Product.UI",
+      "ContentRoot": "D:\\.netProject\\WebApp\\Product.UI\\wwwroot\\",
+      "BasePath": "_content/Product.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\.netProject\\WebApp\\Product.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Product.UI.styles.css",
+      "SourceId": "Product.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\.netProject\\WebApp\\Product.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Product.UI",
+      "RelativePath": "Product.UI.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\.netProject\\WebApp\\Product.UI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Product.UI.styles.css"
+    },
+    {
+      "Identity": "D:\\.netProject\\WebApp\\Product.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Product.UI.bundle.scp.css",
+      "SourceId": "Product.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\.netProject\\WebApp\\Product.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Product.UI",
+      "RelativePath": "Product.UI.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\.netProject\\WebApp\\Product.UI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Product.UI.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\.netProject\\WebApp\\Product.UI\\wwwroot\\favicon.ico",
+      "SourceId": "Product.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.netProject\\WebApp\\Product.UI\\wwwroot\\",
+      "BasePath": "_content/Product.UI",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
